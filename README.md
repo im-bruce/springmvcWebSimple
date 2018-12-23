@@ -1,4 +1,4 @@
-"springmvcSimple" 
+"springmvcWebSimple" 
 
 1-1简介
 MVC核心思想：将业务数据抽取和业务数据呈现相互分离
